@@ -1,11 +1,11 @@
-About r-datacomparer
-====================
+About r-datacomparer-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-datacomparer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/capitalone/dataCompareR
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-datacomparer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Easy comparison of two tabular data objects in R. Specifically designed to show differences between two sets of data in a useful way that should make it easier to understand the differences, and if necessary, help you work out how to remedy them. Aims to offer a more useful output than all.equal() when your two data sets do not match, but isn't intended to replace all.equal() as a way to test for equality.
 
